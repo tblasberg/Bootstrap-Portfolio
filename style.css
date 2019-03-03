@@ -1,10 +1,13 @@
+body{
+    background-image: url("./assets/leaves.png")
+}
 
 .pets{
-    border-right: dotted  lightskyblue;
+    border-right: dotted  green; 
 }
 
 .fun{
-    border-right: dotted lightskyblue;
+    border-right: dotted green;
 }
 
 .header{
@@ -19,5 +22,6 @@
 }
 
 .footer{
-    background-color: green;
+    background-color: #6B8E23;
+    text-align: center;
 }
