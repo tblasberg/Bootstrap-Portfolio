@@ -21,7 +21,62 @@ body{
     font-family: 'Indie Flower', cursive;
 }
 
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+    padding: 60px 15px 0;
+  }
+  
+  .footer {
+    background-color: #f5f5f5;
+  }
+  
+  .footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  code {
+    font-size: 80%;
+  }
+
+
 .footer{
     background-color: #6B8E23;
     text-align: center;
+}
+
+/* Index file */
+#aboutme{
+    font-family: 'Indie Flower', cursive;
+    color: rgb(21, 55, 1);
+    text-align: center;
+}
+
+/* Index file */
+#mephoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Index file */
+p{
+    word-wrap: inherit;
+}
+
+
+/* Contact File */
+.contact_header{
+    font-family: 'Indie Flower', cursive;
+    color: rgb(21, 55, 1);
+}
+
+
+.form{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
